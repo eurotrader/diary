@@ -129,3 +129,19 @@ DAX: +0.26%             CAC: +0.03%
 
 目前操作:
 - 挂单 SELL @2801
+
+================================================================================
+今日直播  9:07 PM / 贴图
+
+S&P -0.24%		DAX flat		CAC -0.41%
+
+- 盘头, 缓慢下跌, 低见 2770
+- GCC Tue morning 公布
+- Large 1.2750 expiry EUR/USD, often magnetic
+- offers 1.2820-25, stops above 1.2830
+- Bids layered through 1.2750-60 are supporting the losses for now, while option expiries at 1.2750/60 could tug on trade later.
+  More interest is seen within the 1.2705-20 zone 
+  with decent demand and stops also reported through 1.2710/00. 
+
+- GCC weigh, 找机会 SELL, R=03, 91, 93
+
