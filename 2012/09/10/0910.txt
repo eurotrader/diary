@@ -60,7 +60,9 @@ IMM:
 - Oct 23-24 FOMC meeting
 
 ================================================================================
-今日直播 11:17 AM / 2785 / 贴图
+今日直播 11:17 AM / 贴图
+
+Nikkei: %       Hangsheng: %
 
 目前走势:
 - 2812 ... 2783 缓慢下跌
@@ -75,4 +77,26 @@ IMM:
 -
 
 ================================================================================
-今日直播 11:17 AM / 2785 / 贴图
+今日直播  3:30 PM / 贴图
+
+DAX: +0.26%             CAC: +0.03%
+
+目前地图:
+- offers 1.2820-25, stops above 1.2830, 1.2850
+
+- bids at 2780-85
+- bids at 2705-20
+- Stops through 1.2700
+
+目前走势:
+- 2814-2776
+- EU specs likely to take some profits after lack of follow through in Asia
+- around 1.2730-50 is likely to draw plentiful demand from a market that is potentially still short of euros
+
+目前操作:
+- 错误的卖掉了前面的买单.
+
+目前计划:
+- 有利因素 FMOC exp, 不利因素: gcc, 见获利盘
+- 区间操作: SELL @2800+ BUY@2770-80
+
