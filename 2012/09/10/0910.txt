@@ -100,3 +100,32 @@ DAX: +0.26%             CAC: +0.03%
 - 有利因素 FMOC exp, 不利因素: gcc, 见获利盘
 - 区间操作: SELL @2800+ BUY@2770-80
 
+- [EUR/USD] is being capped around the 1.2800 handle for now as commercial name supply out of the Middle East emerges, 
+  while a seller out of the Far East (said to be directional over 24 hours) has also been spotted. 
+  Offers 1.2820/25 and stops above 1.2830 and again through 1.2850 thus remain untested for now. 
+  More option related stops are then noted above 1.2855, which are said to trail up to 1.2900. 
+  Note also the 1.2837 200dma. On the downside, bids are re-grouping 1.2780-85, 1.2750-60, and 1.2705-20 
+  (latter the 38.2% retrace level), with decent demand and stops also reported through 1.2710/00. 
+  The tech structure remains bullish, with a breach of last week's 1.2818 top set to open up gains towards 1.2935 next.
+
+- 报 79, 测试 80-85 买单, 观望
+
+- After some explosive gains seen in the latter half of last week, EUR/USD looks to be consolidating around 1.2800 today, 
+  amid talk of Asia and Middle East selling interest at the session highs.  Given their natural USD positioning, 
+  it is fair to say that these large accounts are taking full advantage of the illiquidity at the current time, 
+  and anyone wondering just why the single unit is performing so well at present, need look no further than this!  
+  For today, we note some 1.2760's and 1.2750's rolling off the books at the NY cut, so if Monday trade goes true to form, 
+  intra day specs will be buying around here.
+  
+================================================================================
+今日直播  4:40 PM / 贴图
+
+目前走势:
+- 盘头, 2780-85 为颈线
+
+目前计划:
+- 亚洲开市 获利卖盘 2810-15  -> 2783
+- 80-85 50-50 有买单, 30-50 为空头回补的好位置.
+
+目前操作:
+- 挂单 SELL @2801
