@@ -1,0 +1,22 @@
+2012/09/10 week37 星期一 Board v2.0
+
+战无不胜的索罗斯思想万岁!
+
+多看多练, 少患得失
+
+================================================================================
+17:31 		S&P n/a		DAX -0.20%		CAC -0.28%
+
+- GCC 如期后高报2819
+- 周三 2:30 GCC / Dutch 大选 / FMOC QE exp
+- 瑞银(UBS)将欧元/美元一个月展望从1.25上调至1.30
+
+地图:
+- usual Swiss diversification flow
+- 1.2820/25 offers and stops
+  decent size offers from 1.2825, with larger sell orders seen at 1.2835 also. 
+  A large chunk of this is said to be spec related (HF)
+- next 1.2850 option barrier
+
+操作:
+- SELL @2803
