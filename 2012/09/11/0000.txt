@@ -8,7 +8,7 @@
 17:31 		S&P n/a		DAX -0.20%		CAC -0.28%
 
 - GCC 如期后高报2819
-- 周三 2:30 GCC / Dutch 大选 / FMOC QE exp
+- 周三 4:0vbjk vbjk vbjk vbjk vbjk vbjk mkbk0 GCC / Dutch 大选 / FMOC QE exp
 - 瑞银(UBS)将欧元/美元一个月展望从1.25上调至1.30
 
 地图:
@@ -20,3 +20,8 @@
 
 操作:
 - SELL @2803
+
+================================================================================
+20:46 		S&P +0.37%		DAX flat		CAC -0.38%
+
+- Next bids are seen around 1.2750/60, also NY cut
